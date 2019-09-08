@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="business-core" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="httpClient-thread" />
+        <module name="message-api" />
+        <module name="message-feign" />
+        <module name="message-server" />
+        <module name="order-api" />
+        <module name="order-feign" />
+        <module name="order-server" />
+        <module name="pay-api" />
+        <module name="pay-feign" />
+        <module name="pay-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amall-business" target="1.8" />
+      <module name="app-message" target="1.8" />
+      <module name="app-order" target="1.8" />
+      <module name="app-pay" target="1.8" />
+      <module name="business-core" target="1.8" />
+      <module name="business-module" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="httpClient-thread" target="1.5" />
+      <module name="message-api" target="1.8" />
+      <module name="message-feign" target="1.8" />
+      <module name="message-server" target="1.8" />
+      <module name="order-api" target="1.8" />
+      <module name="order-feign" target="1.8" />
+      <module name="order-server" target="1.8" />
+      <module name="pay-api" target="1.8" />
+      <module name="pay-feign" target="1.8" />
+      <module name="pay-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amall-business" options="-parameters" />
+      <module name="app-message" options="-parameters" />
+      <module name="app-order" options="-parameters" />
+      <module name="app-pay" options="" />
+      <module name="business-core" options="-parameters" />
+      <module name="business-module" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="message-api" options="-parameters" />
+      <module name="message-feign" options="-parameters" />
+      <module name="message-server" options="-parameters" />
+      <module name="order-api" options="-parameters" />
+      <module name="order-feign" options="-parameters" />
+      <module name="order-server" options="-parameters" />
+      <module name="pay-api" options="-parameters" />
+      <module name="pay-feign" options="-parameters" />
+      <module name="pay-server" options="-parameters" />
+    </option>
+  </component>
+</project>

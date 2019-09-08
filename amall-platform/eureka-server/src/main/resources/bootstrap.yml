@@ -1,0 +1,10 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: localhost #该注册中心的hostname
+  client:
+    register-with-eureka: false #禁止注册自己
+    fetch-registry: false #不去检索其他服务
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ #注册中心的位置

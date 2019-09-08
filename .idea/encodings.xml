@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/amall-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-platform/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amall-platform/eureka-server" charset="UTF-8" />
+  </component>
+</project>

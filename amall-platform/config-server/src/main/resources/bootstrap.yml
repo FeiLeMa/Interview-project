@@ -1,0 +1,23 @@
+eureka:
+  instance:
+    prefer-ip-address: true #自动获取机器ip地址
+    instanceId: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port} #指定显示在注册中心的名称格式
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka #指定注册中心url地址
+server:
+  port: 8888 #配置中心服务端口号
+spring:
+  application:
+    name: config-server #应用名称
+  profiles:
+    active: native #采用本地配置中心服务
+  security: #设置安全登录账号密码
+    user:
+      name: admin
+      password: admin
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config #指定配置文件所在位置

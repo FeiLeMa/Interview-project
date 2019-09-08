@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ac5b9b2-71b1-4d9a-8120-3fa24fe9e591" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/amall-business/target/" />
+    <ignored path="$PROJECT_DIR$/amall-platform/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/amall-platform/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-core/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-order/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-pay/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-message/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-message/message-api/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-order/order-api/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-order/order-server/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-api/target/" />
+    <ignored path="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/target/" />
+    <ignored path="$PROJECT_DIR$/amall-platform/httpClient-thread/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="configYml">
+      <favorite_root url="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config" module="config-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-pay-dev.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-order-dev.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-public-dev.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-message-dev.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/MessageAppStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/service/MsgTaskService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/service/impl/MsgTaskServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.alag.amall.business.module.message.api.model.TransactionMsg</find>
+      <find>com.alag.amall.business.module.pay.gateway.mapper.ResultPayInfoMapper</find>
+      <find>log.info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>api.model.TransactionMsg</replace>
+      <replace>com.alag.amall.business.module.pay.server.mapper.ResultPayInfoMapper</replace>
+      <replace>log.error</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/amall-business/business-core/src/main/java/core/common/ResponseCode.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-core/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-api/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-api/src/main/java/api/controller/TransactionMsgController.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/mapper/TransactionMsgMapper.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-api/src/main/java/com/alag/amall/business/module/message/api/controller/TransactionMsgController.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/exceptions/MessageBizException.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-message-dev.yml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-public-dev.yml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/MessageFeignAppStart.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign/src/main/java/com/alag/amall/business/module/pay/feign/PayFeign.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/service/PayService.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-server/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-order-dev.yml" />
+        <option value="$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-pay-dev.yml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/resources/mybatis.mappers/ResultPayInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/fallback/MessageFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/OrderFeign.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/fallback/OrderFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/PayAppStart.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/exceptions/MessageExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/service/impl/PayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/fallback/KeepErrMsgConfiguration.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/fallback/KeepErrMsgConfiguration.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/controller/TransactionMsgFeign.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/controller/OrderFeign.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/controller/TMessageServerController.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/MessageAppStart.java" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/pom.xml" />
+        <option value="$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/service/impl/MsgTaskServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Rep-nexus" />
+        <option name="mavenHome" value="$USER_HOME$/Applications/apache-maven-3.6.1-nexus" />
+        <option name="userSettingsFile" value="$USER_HOME$/Applications/apache-maven-3.6.1-nexus/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-business" type="462c0819:PsiDirectoryNode" />
+              <item name="business-module" type="462c0819:PsiDirectoryNode" />
+              <item name="app-message" type="462c0819:PsiDirectoryNode" />
+              <item name="message-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-pj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-pj" type="462c0819:PsiDirectoryNode" />
+              <item name="amall-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="httpClient-thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567957793784" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alag.amall.business.module.message.server.service.impl" />
+      <recent name="com.alag.amall.business.module.message.server.service" />
+      <recent name="com.alag.amall.business.module.message.server.task" />
+      <recent name="com.alag.amall.business.module.order.feign.fallback" />
+      <recent name="com.alag.amall.business.module.order.feign" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server" />
+      <recent name="$PROJECT_DIR$/amall-business/business-module/app-order/order-api/src/main/java/com/alag/amall/business/module/order/api" />
+      <recent name="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.20661157" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApp">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alag.agmall.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alag.agmall.platform.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alag.amall.platform.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alag.amall.platform.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageAppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="message-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alag.amall.business.module.message.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alag.amall.business.module.message.server.MessageAppStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alag.amall.business.module.order.server.OrderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayAppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pay-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alag.amall.business.module.pay.server.PayAppStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MessageAppStart" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac5b9b2-71b1-4d9a-8120-3fa24fe9e591" name="Default Changelist" comment="" />
+      <created>1567933577131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567933577131</updated>
+      <workItem from="1567933578513" duration="1149000" />
+      <workItem from="1567934748579" duration="1828000" />
+      <workItem from="1567936594588" duration="11499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43838385" visible="true" weight="0.35945073" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5616162" side_tool="true" weight="0.35945073" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.41369864" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" sideWeight="0.49919224" visible="true" weight="0.29178083" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.29178083" />
+      <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="16" weight="0.23013699" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-public-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/MessageFeignAppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-api/src/main/java/com/alag/amall/business/module/pay/api/model/ResultPayInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-api/src/main/java/com/alag/amall/business/module/pay/api/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-feign/src/main/java/com/alag/amall/business/module/pay/feign/PayFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/config/DruidConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/mapper/ResultPayInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-api/src/main/java/com/alag/amall/business/module/order/api/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-api/src/main/java/com/alag/amall/business/module/order/api/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/service/PayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="731" column="6" selection-start-line="731" selection-start-column="6" selection-end-line="731" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/config/DruidConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/resources/mybatis.mappers/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-order-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-message-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/resources/mybatis.mappers/ResultPayInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/controller/OrderServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-platform/config-server/src/main/resources/config/app-pay-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/fallback/MessageFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="17" column="97" selection-start-line="16" selection-start-column="3" selection-end-line="17" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/fallback/OrderFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/OrderApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/exceptions/MessageExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/exceptions/MessageBizException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Rep-nexus/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/SynchronousMethodHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/PayAppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-core/src/main/java/com/alag/amall/business/core/common/ServerResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/service/impl/PayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="63" column="78" selection-start-line="63" selection-start-column="78" selection-end-line="63" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/controller/OrderFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="109" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/controller/TransactionMsgFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="127" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-feign/src/main/java/com/alag/amall/business/module/order/feign/fallback/KeepErrMsgConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-feign/src/main/java/com/alag/amall/business/module/message/feign/fallback/KeepErrMsgConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-pay/pay-server/src/main/java/com/alag/amall/business/module/pay/server/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/controller/TMessageServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-order/order-server/src/main/java/com/alag/amall/business/module/order/server/listener/OrderMQListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/task/MessageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/MessageAppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/service/MsgTaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amall-business/business-module/app-message/message-server/src/main/java/com/alag/amall/business/module/message/server/service/impl/MsgTaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>order-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
